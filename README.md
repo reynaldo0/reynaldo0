@@ -1,13 +1,13 @@
-[![MasterHead](https://www.123rf.com/photo_130370493_frontend-development-web-banner-concept-website-interface.html)](https://rishavchanda.io)
+<img align="center" alt"banner" width="100%" src="https://www.123rf.com/photo_130370493_frontend-development-web-banner-concept-website-interface.html">
 <h1 align="center">Hi 👋, I'm Reynaldo Yusellino</h1>
 <h3 align="center">I'm as frontend developer, and Cyber Security Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Fotix Cinema](fotixcinema.vercel.app)
 
-- 🌱 I’m currently learning **Python, Flask, and Django**
-
 - 👯 I’m looking to collaborate on [Rebellum](rebellum.vercel.app)
+
+- 🌱 I’m currently learning **Python, Flask, and Django**
 
 - 👨‍💻 All of my projects are available at [reynaldoyusellino.vercel.app](reynaldoyusellino.vercel.app)
 
