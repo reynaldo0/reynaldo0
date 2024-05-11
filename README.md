@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="100%" src="https://www.123rf.com/photo_130370493_frontend-development-web-banner-concept-website-interface.html">
+<img align="center" alt="banner" width="100%" src="./assets/banner.jpg">
 <h1 align="center">Hi 👋, I'm Reynaldo Yusellino</h1>
 <h3 align="center">I'm as frontend developer, and Cyber Security Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
