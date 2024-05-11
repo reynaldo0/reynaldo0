@@ -1,6 +1,7 @@
 <img align="center" alt="banner" width="100%" src="./assets/banner.jpeg" />
 <h1 align="center">Hi 👋, I'm Reynaldo Yusellino</h1>
-<h3 align="center">I'm as frontend developer, and Cyber Security Enthusiast</h3>
+<h3 align="center">I'm as Frontend Developer, and Cyber Security Enthusiast</h3>
+
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -19,6 +20,7 @@
 - ⚡ Familiar With **Adobe Photoshop and Figma** 
 
 - 📫 How to reach me **reynaldooyusellino@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
