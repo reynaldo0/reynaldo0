@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on [Fotix Cinema](https://github.com/reynaldo0/fotixcinema) 
+- 🔭 my first project is [Fotix Cinema](https://github.com/reynaldo0/fotixcinema) 
 
 - 👯 I’m looking to collaborate on [Rebellum](https://github.com/reynaldo0/Rebellum) 
 
